@@ -1,3 +1,6 @@
 function booking(){
-    return "Tickets Booked";
+    return "Tickets Booked
+}
+function Mohit(){
+    return "mohit"
 }
