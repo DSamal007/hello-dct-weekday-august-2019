@@ -1,3 +1,3 @@
-function booking(){
+function bookingTickets(){
     return "Tickets Booked";
 }
